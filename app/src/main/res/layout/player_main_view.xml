@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:id="@+id/player_home_videoview_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/black"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.mark.myapplication.ui.fragment.LeftFragment
+            android:id="@+id/player_home_play_left"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"/>
+        <com.mark.myapplication.ui.fragment.RightFragment
+            android:id="@+id/player_home_play_right"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <include
+        android:id="@+id/player_home_play_top"
+        layout="@layout/include_player_top_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+
+    <include
+        android:id="@+id/player_home_play_nv"
+        layout="@layout/include_player_bottom_nv"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_80"
+        app:layout_constraintBottom_toBottomOf="@id/player_home_videoview_container"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">NewPlayer</string>
+
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="retest">重试</string>
+
+    <string name="about_me_now_version">目前版本：</string>
+    <string name="about_me_content">更多功能，静待后续版本。\n
+    更新计划\n
+        \n
+    本地网络资源模块静待后续开发\n
+    更新计划:
+        1.02：完善本地网络资源模块</string>
+
+    <string name="bt_get_list">接收文件列表</string>
+    <string name="storage_location">存储位置</string>
+    <string name="loading_sender_send_file">等待发送者发送文件...</string>
+
+    <string name="rv_nothing">没有获得到数据</string>
+
+    <string name="menu_local_video">本地视频</string>
+    <string name="menu_local_pic">本地图片</string>
+    <string name="menu_local_audio">本地音频</string>
+    <string name="menu_net_video">本地网络资源(BETA)</string>
+    <string name="menu_safebox">保险柜</string>
+    <string name="menu_about">关于APP</string>
+
+    <string name="sender">发送者</string>
+    <string name="send">发送</string>
+    <string name="get_man">接收者</string>
+    <string name="what_you_do">你想扮演什么？</string>
+
+    <string name="select_device">选择接收设备</string>
+    <string name="add_selected_file">添加选择文件</string>
+
+    <string name="send_file_list">想要发送的文件：</string>
+
+    <string name="now_no_device">目前没有设备接入</string>
+
+    <string name="new_session_please_set_correct_format">请设置正确的参数</string>
+
+    <string name="new_session_fail">连接失败，请检查参数是否正确</string>
+    <string name="new_session_success">连接成功</string>
+    <string name="session_mark_name">备注名：</string>
+    <string name="mark_name">备注名</string>
+    <string name="session_username">用户名：</string>
+    <string name="username">用户名</string>
+    <string name="session_password">密码：</string>
+    <string name="password">密码</string>
+    <string name="session_mark">目前应用仅支持SMB2.0/3.0协议</string>
+    <string name="target_ip_address">目标IP地址:</string>
+    <string name="ip">IP</string>
+
+    <string name="unkown_file">未知文件,更多文件处理待后续开发</string>
+
+    <string name="wifi_title">Web服务器</string>
+    <string name="wifi_server_status_no">未运行</string>
+    <string name="wifi_server_status_ing">运行中</string>
+    <string name="wifi_server_share_directory">共享目录</string>
+
+    <string name="start">开始</string>
+    <string name="end">结束</string>
+    <string name="commit">提交</string>
+
+    <string name="unknown">未知</string>
+
+    <string name="nearby_device">附近设备</string>
+
+    <string name="bt_no_connect">目前没有连接到任何蓝牙设备，点击连接</string>
+
+    <string name="new_session_help">参数说明：用户名与密码为目标IP的登录验证</string>
+</resources>

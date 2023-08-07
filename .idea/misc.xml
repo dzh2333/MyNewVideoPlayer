@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/activity_main.xml" value="0.2828125" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/activity_player.xml" value="0.3609375" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/activity_player_main.xml" value="0.3064373897707231" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/dialog_add_mediabean.xml" value="0.5" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/dialog_info.xml" value="0.24911816578483245" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/fragemnt_media_home.xml" value="0.3055555555555556" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/include_home_toolbar.xml" value="0.23368606701940034" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/include_layout_buttom.xml" value="0.3064373897707231" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/include_player_bottom_nv.xml" value="0.2923280423280423" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/include_player_top_toolbar.xml" value="0.46825396825396826" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/item_player_home.xml" value="0.3055555555555556" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/nav_head.xml" value="0.46825396825396826" />
+        <entry key="..\:/NewPlayer/app/src/main/res/layout/player_main_view.xml" value="0.48489583333333336" />
+        <entry key="..\:/NewPlayer/app/src/main/res/menu/nav_menu.xml" value="0.9317708333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

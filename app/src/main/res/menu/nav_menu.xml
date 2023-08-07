@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/media_list"
+        android:title="媒体列表"/>
+
+    <item android:id="@+id/record"
+        android:title="record steam"/>
+
+    <item android:id="@+id/cap"
+        android:title="裁剪"/>
+
+    <item android:id="@+id/support_info"
+        android:title="支持信息"/>
+</menu>
